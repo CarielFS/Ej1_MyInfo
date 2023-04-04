@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Ej1_MyInfo</string>
+    <string name="splash_madewith">Hecho con:</string>
+    <string name="splash_author">Por: Cariel Ferreira</string>
+    <string name="splash_version">Versión 1.0</string>
+
+    <string name="form_title">Ingresa tus datos</string>
+    <string name="form_name">Nombre(s):</string>
+    <string name="form_name_hint" translatable="false">Charlie</string>
+    <string name="form_lastName">Apellido(s):</string>
+    <string name="form_lastName_hint" translatable="false">Brown</string>
+    <string name="form_date">Fecha de nacimiento:</string>
+    <string name="form_date_hint" translatable="false">%1$d/%2$s/%3$d</string>
+    <string name="form_number">Número de cuenta:</string>
+    <string name="form_number_hint" translatable="false">123456789</string>
+    <string name="form_email">Correo:</string>
+    <string name="form_email_hint">ejemplo@mail.com</string>
+    <string name="form_career">Carrera. Ingeniería en:</string>
+    <string name="form_button">Ingresar</string>
+
+    <string name="res_name" translatable="false">%1$s %2$s</string>
+    <string name="res_age">Edad: %d</string>
+    <string name="res_zodiac">Signo Zodiacal: %s</string>
+    <string name="res_animal">Año Lunar: %s</string>
+    <string name="res_mail">Correo: %s</string>
+    <string name="res_number">Número de cuenta: %d</string>
+    <string name="res_career">Ingeniería en: %s</string>
+
+    <string-array name="form_months">
+        <item>Ene</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </string-array>
+
+    <string-array name="form_careers">
+        <item>Aeroespacial</item>
+        <item>Ambiental</item>
+        <item>Biomédica</item>
+        <item>Civil</item>
+        <item>Computación</item>
+        <item>Eléctrica</item>
+        <item>Geofísica</item>
+        <item>Geológica</item>
+        <item>Geomática</item>
+        <item>Industrial</item>
+        <item>Mecánica</item>
+        <item>Mecatrónica</item>
+        <item>Minas</item>
+        <item>Petrolera</item>
+        <item>Telecomunicaciones</item>
+    </string-array>
+
+    <string-array name="lunar_animals">
+        <item>Rata</item>
+        <item>Buey</item>
+        <item>Tigre</item>
+        <item>Conejo</item>
+        <item>Dragón</item>
+        <item>Serpiente</item>
+        <item>Caballo</item>
+        <item>Cabra</item>
+        <item>Mono</item>
+        <item>Gallo</item>
+        <item>Perro</item>
+        <item>Cerdo</item>
+    </string-array>
+
+    <string-array name="zodiac_signs">
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Piscis</item>
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Géminis</item>
+        <item>Cáncer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpio</item>
+        <item>Sagitario</item>
+    </string-array>
+
+    <string name="err_no_name">Se debe ingresar uno o más nombres</string>
+    <string name="err_invalid_name">Nombre(s) inválido(s), intente con otro(s)</string>
+    <string name="err_no_lastName">Se debe ingresar uno o más apellidos</string>
+    <string name="err_invalid_lastName">Apellido(s) inválido(s), intente con otro(s)</string>
+    <string name="err_no_number">Se debe ingresar un número de cuenta</string>
+    <string name="err_invalid_number">El número de cuenta debe ser de 9 dígitos</string>
+    <string name="err_invalid_date">Fecha inválida, ingrese otra fecha</string>
+    <string name="err_no_email">Se debe ingresar un correo</string>
+    <string name="err_invalid_email">Correo inválido, intente con otro</string>
+</resources>

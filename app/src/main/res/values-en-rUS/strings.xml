@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ej1_MyInfo</string>
+    <string name="splash_madewith">Made with:</string>
+    <string name="splash_author">By: Cariel Ferreira</string>
+    <string name="splash_version">Version 1.0</string>
+    <string name="form_title">Enter your details</string>
+    <string name="form_name">Name(s):</string>
+    <string name="form_lastName">Last Name:</string>
+    <string name="form_date">Birth date:</string>
+    <string name="form_number">Account number:</string>
+    <string name="form_email">Email:</string>
+    <string name="form_email_hint">example@mail.com</string>
+    <string name="form_career">Career. Engineering in:</string>
+    <string name="form_button">Log in</string>
+    <string name="res_age">Age: %d</string>
+    <string name="res_zodiac">Zodiac sign: %s</string>
+    <string name="res_animal">Lunar year: %s</string>
+    <string name="res_mail">Email: %s</string>
+    <string name="res_number">Account number: %d</string>
+    <string name="res_career">%s engineering</string>
+    <string name="err_no_name">You must enter one or more names</string>
+    <string name="err_invalid_name">Invalid name(s), please try again</string>
+    <string name="err_no_lastName">You must enter one or more last names</string>
+    <string name="err_invalid_lastName">Invalid last name, please try again</string>
+    <string name="err_no_number">You must enter an account number</string>
+    <string name="err_invalid_number">Account number must be 9 digits long</string>
+    <string name="err_invalid_date">Invalid date, please try again</string>
+    <string name="err_no_email">You must enter one email</string>
+    <string name="err_invalid_email">Invalid email, please try again</string>
+    <string-array name="form_months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Agu</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </string-array>
+
+    <string-array name="form_careers">
+        <item>Aerospace</item>
+        <item>Environmental</item>
+        <item>Biomedical</item>
+        <item>Civil</item>
+        <item>Computing</item>
+        <item>Electric</item>
+        <item>Geophysics</item>
+        <item>Geological</item>
+        <item>Geomatics</item>
+        <item>Industrial</item>
+        <item>Mechanics</item>
+        <item>Mechatronics</item>
+        <item>Mines</item>
+        <item>Petroleum</item>
+        <item>Telecommunications</item>
+    </string-array>
+
+    <string-array name="lunar_animals">
+        <item>Rat</item>
+        <item>Ox</item>
+        <item>Tiger</item>
+        <item>Rabbit</item>
+        <item>Dragon</item>
+        <item>Snake</item>
+        <item>Horse</item>
+        <item>Goat</item>
+        <item>Monkey</item>
+        <item>Rooster</item>
+        <item>Dog</item>
+        <item>Pig</item>
+    </string-array>
+
+    <string-array name="zodiac_signs">
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+    </string-array>
+</resources>
